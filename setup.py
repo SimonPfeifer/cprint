@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="cprint",
+    name="c_print",
     version="1.0.0",
     author="Simon Pfeifer",
     author_email="s.pfeifer@2012.ljmu.ac.uk",

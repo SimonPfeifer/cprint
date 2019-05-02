@@ -3,7 +3,7 @@ Small python package for printing text in different colours and typography.
 
 ### Installation
 
-pip install c_print
+pip install c-print
 
 ### Prerequisites
 

@@ -19,7 +19,7 @@ The `cprint()` function simply adds one keyword argument, `c`, to the python `pr
 | 'm'        | magenta         |
 | 'c'        | cyan            |
 | 'w'        | white           |
-| ---------- | --------------- |
+
 | Character  | Style           |
 | ---------- | --------------- |
 | 'B'        | bold            |

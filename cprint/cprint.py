@@ -1,4 +1,5 @@
 from __future__ import print_function
+
 def cprint(*args, **kwargs):
     ''' 
     Prints text in different colours and typography.

@@ -1,6 +1,10 @@
 # cprint
 Small python package for printing text in different colours and typography.
 
+### Installation
+
+pip install c_print
+
 ### Prerequisites
 
 You need to have a Python2.7+ or Python3+ installation with the following libraries:
@@ -32,6 +36,7 @@ The `cprint()` function simply adds one keyword argument, `c`, to the python `pr
 
 Example:
 ```python
+from cprint import cprint
 cprint('Hello World!', c='rB')
 cprint('Hello World!', 'Monty Python', c='bUI', end='!')
 ```

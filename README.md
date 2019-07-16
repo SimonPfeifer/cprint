@@ -7,7 +7,7 @@ pip install c-print
 
 ### Prerequisites
 
-You need to have a Python2.7+ or Python3+ installation with the following libraries:
+You need to have a Python2.7+ or Python3+ installation.
 
 ### Usage
 

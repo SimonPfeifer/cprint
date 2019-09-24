@@ -80,4 +80,4 @@ def cprint(*args, **kwargs):
 
     print(prefix[:-1]+'m', end='')
     print(*args, **kwargs)
-    print('\033[0m', end='')
+    print('\033[0m', end='', flush=True)
